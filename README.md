@@ -28,8 +28,8 @@ This project has been built by the following developers:
 Together we are [Lups-Tech](https://github.com/lups-tech).
 
 ## Next Steps
-We are approaching this project with an agile approach, consisting of 1 week sprint goals. At present, both frontend and backend are not yet deployed, though we hope to address this once authorization is properly integrated.
+We are approaching this project with an agile approach, consisting of 1 week sprint goals. At present, both frontend and backend are deployed, with the backend hosted on Azure and the Frontend on Vercel.
 
 We are currently working on the MVP, with the required Many-To-Many relationships already set up on the backend.
 
-Once this is done, we hope to refactor the controllers to add service injection and keep the business logic separate from the routes.
+Once this is done, we hope to refactor the controllers to add service injection and keep the business logic separate from the routes, as well as authentication and authorization.
