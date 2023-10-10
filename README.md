@@ -1,5 +1,8 @@
 # Talent Hub - .Net Backend
 
+## This Project is now continued [here](https://github.com/lups-tech/talenthubBE)
+Scoped Authorization, JWT Authentication and Authorization, Organization entities and more have now been added. Feel free to check it out!
+
 This repository forms part of a mob-programming project. The overall project is a job seeking system that can anaylse job adverts and display matching developers, to allow for easier and more effective recruitment.
 
 The frontend for this project can be found [here](https://github.com/lups-tech/devFrontend).
